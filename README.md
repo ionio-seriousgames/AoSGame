@@ -7,6 +7,9 @@ A repository of the game adventure of physics. An educational RPG, themed around
 
 [Download του installer του παιχνιδιού](https://www.dropbox.com/s/kd33b6o7jav7iiw/Diplomatiki2.exe?dl=0)
 
+
+Βίντεο με longplay του παιχνιδιού από την αρχή μέχρι το τέλος είναι εδώ:  [Adventure](https://www.youtube.com/watch?v=Os60t3FA308)
+
 Αφού κάνετε download το αρχείο exe από το παραπάνω link, τρέξτε το, για να εγκαταστήσει το παιχνίδι. 
 Στον φάκελο που θα δημιουργηθεί, τρέξτε το αρχείο GAME.exe.
 Το παιχνίδι θα ξεκινήσει σε λειτουργία παραθύρου, αλλά μπορείτε να το γυρίσετε σε full screen, με τα πλήκτρα alt+enter.
