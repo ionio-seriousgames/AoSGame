@@ -6,7 +6,7 @@ A repository of the game adventure of physics. An educational RPG, themed around
 
 The tool used for the creation of the educational game was [RPG Maker VX Ace](http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace), whose demo version can be downloaded from its webpage.
 
-The following video is gameplay of the game in its english version:
+**The following video is gameplay of the game in its english version:**
 https://www.youtube.com/watch?v=fTas1YmTxFY
 
 ### Ελληνικά
