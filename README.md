@@ -9,6 +9,14 @@ The tool used for the creation of the educational game was [RPG Maker VX Ace](ht
 **The following video is gameplay of the game in its english version:**
 https://www.youtube.com/watch?v=fTas1YmTxFY
 
+<img src="https://i.imgur.com/zOs1P4E.png"> 
+ <br></br>  
+ <br></br> 
+<img src="https://i.imgur.com/Wwr5x3g.png">
+ <br></br>  
+ <br></br> 
+<img src="https://i.imgur.com/FTl7Biz.png">
+
 ### Ελληνικά
 
 Η ύλη η οποία χρησιμοποιήθηκε ήταν από το βιβλίο της φυσικής της Ε' Δημοτικού. 
