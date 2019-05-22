@@ -2,6 +2,12 @@
 
 A repository of the game adventure of physics. An educational RPG, themed around the science lesson of the 5th grade of elementary school. 
 
+The tool used for the creation of the educational game was [RPG Maker VX Ace](http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace), whose demo version can be downloaded from its webpage.
+
+The following video is gameplay of the game in its english version:
+https://www.youtube.com/watch?v=fTas1YmTxFY
+
+
 Η ύλη η οποία χρησιμοποιήθηκε ήταν από το βιβλίο της φυσικής της Ε' Δημοτικού. 
 Το εργαλείο το οποίο χρησιμοποιήθηκε για την υλοποίηση του παιχνιδιού ήταν το [RPG Maker VX Ace](http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace) H δοκιμαστική έκδοση του εργαλείου μπορεί να γίνει download από αυτή την ιστοσελίδα επίσης. 
 
