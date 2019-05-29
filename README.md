@@ -1,8 +1,8 @@
-# AoPGame
+# AoSGame
 
 ### English 
 
-A repository of the game adventure of physics. An educational RPG, themed around the science lesson of the 5th grade of elementary school. 
+A repository of the game adventure of science. An educational RPG, themed around the science lesson of the 5th grade of elementary school. 
 
 The tool used for the creation of the educational game was [RPG Maker VX Ace](http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace), whose demo version can be downloaded from its webpage.
 
